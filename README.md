@@ -49,7 +49,7 @@ Avg Years at Company = AVERAGE(HR_Attrition[YearsAtCompany])
 ```
 
 ## Dashboard Preview
-![HR Attrition Dashboard](HR_Attrition_Dashboard.jpg)
+![Dashboard](dashboard-preview.png)
 
 ## Author
 Jitender | MIS Executive → Data Analyst
